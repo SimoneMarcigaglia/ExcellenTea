@@ -101,7 +101,7 @@ The software was written to reflect the data flow depicted below. The float swit
 See also the list of [contributors](https://github.com/GlasgowTeam3RTEP/ExcellenTea/contributors) who participated in this project. Check out our [Twitter](https://twitter.com/Excellentea1) page to be up-to-date with the latest developments!
 
 # Contributing
-
+This repository mirrors the original project developed by the GlasgowTeam3RTEP. Due to inactivity and dismantling of the group, the repository has been forked here for maintaining.
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 # License
